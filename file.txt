@@ -1,0 +1,869 @@
+Fri, 08 Dec 2023 09:56:04
+uas3952@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuas3952%40edu.kunskapsskolan.se&subscrKey=c4707fb0-4907-421e-e4b5-eaff6b8d9a14&cid=a2bdee20-dc1b-47b5-efe6-0325657979a9", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVhczM5NTJAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiSXJtYSBIdWh0YW1hYSIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS41IiwibmJmIjoxNzAyMDIyMDMwLCJleHAiOjE3MDIwMjkyMzAsImlhdCI6MTcwMjAyNTYzMCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.OuCx5HeI4LNQpimtJBF7z5ortJ4yzjgD95jSLzVyHHwiuG28hdcf4Q0vm5bo0Gd9zzHH9c_nZDjBaqw6vAG-I8S8LtQ7cKhT5b0VKFiquDoPZU8xeW9qrlYKZ51NybegtFtZ8czYVC8xHtEIFDypstYWzuHgS-O9LBjsJf-Jjoueo3lfXg5uvRZSe3UcRFCwPG1Vd2_MuLWqJwYziu0b3Oe4w6QVl0M_nA7Zd6bLK5xxd9nGGG6JO54fA60UVSkT0Keta-pLnBE0rGLw7S2JumeJVv1FUFcyGFrZOq1UGUfu3zXCBwOHOXCk0fEObojIkjubcl0yBJvgx3MYzdKw-w",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 08 Jan 2024 10:06:53
+urz9270@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202402%2Furz9270%40edu.kunskapsskolan.se&subscrKey=4b4bb340-aecc-48d8-9de1-d66d174cc546&cid=790ee1cc-583f-43f3-85ed-afbbac724b30", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "en,sv;q=0.9,ko;q=0.8",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyejkyNzBAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRWRkaWUgRXJ2ZW5pdXMiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuNiIsIm5iZiI6MTcwNDY5Nzg5OSwiZXhwIjoxNzA0NzA1MDk5LCJpYXQiOjE3MDQ3MDE0OTksImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.igvzs-t9dWDk2DPs57YCERKQY1paJ-XywwFUTzQS84GrxX-y7WOa4_5YCzzxwhVjIK3c8bOKa4r62XRUGWC_QaziF4LdYB0P3kJ5H1YW2olHJwJSpB7yoQzsiEUuedDv11Z_3_iM9kk9CK4Sr7iHPVrah3t6dljsrx24_RShgJipyzSzu53iHYriFZdHEOo_DDGaphJ78YwoGHqNnYamoeehMQ0a_RkFe3LTyWSel4gkzEts6E4IojoJikIepmaPJ6DE-zt411vWK9uWGUWOwziIdqeh99lYgoZzBbCKA_eE2nux_njZtGAwX5dDsYd2omzfLubKQc889o5M2CGQSA",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 06 Dec 2023 11:50:11
+uvi2509@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuvi2509%40edu.kunskapsskolan.se&subscrKey=bf5db294-0be7-4d0d-d733-58758add86e9&cid=cfa21f5f-d083-4c12-9050-566691fa012d", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV2aTI1MDlAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiTWFydGluIEzDtmYiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuNiIsIm5iZiI6MTcwMTg1NjE1NywiZXhwIjoxNzAxODYzMzU3LCJpYXQiOjE3MDE4NTk3NTcsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.a_R9rJJYzK9Fothv80KMrVfoFLQGaQ3ra6Bfa13G5fCGPB6Wh0WG5Kne1x-VWYNLtPC2BTw_CnImTWhGvee3xUMwR6OR6LSCjfrWnHOAiBUpB8EV5MAucbQYVEedymweCHP3m3895GjHp5UhWMzficau_8QrBJXQfHIK07LLsahvJ0q2Xjp12fUIW-gXgBkuHEE6eUz2AoSQgMhXk8SaVqsmwXvRR921Wn03sn70tbxgjPlu7pnSgv7Dw9MPZlpvLmFB0f3f8tlA0Dfxk2S136lkJzX9J_mLpCoGfR-VxLQAPJji1x9-gNXOSTHgBl2nGMnymu2zFx8VJB6vFQrW7Q",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 13:16:02
+uxn6934@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuxn6934%40edu.kunskapsskolan.se&subscrKey=341436f6-3074-436f-fe1c-b816be53237f&cid=4ca03323-0ccd-4356-ffec-d84eb994b93b", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV4bjY5MzRAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQXJ2aWQgUGV0dGVyc3NvbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiNy4zIiwibmJmIjoxNzAyNTUxNjk0LCJleHAiOjE3MDI1NTg4OTQsImlhdCI6MTcwMjU1NTI5NCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.CgDxWknBqkgLNDrNtiI8pZEocZfqeTPdoy0APjaqp0cqDIOTw6twj1kbH8A7z15awMJxWsExWMi1B2Ks1DLIZ2PZDFiMBTuCTbXgHUgdI-3kkS2LVyNrMfdm1lFgT69iQtabJEy_QraPUYXJxuOWFDNuWn7_Zyl4a_Z1ykqEOPvQAbup6CvduEBISNqPISJbY_neyPE7TKMIGmxpjZeFDXsOsC_SlNz__CrY8E1Lko11g_e7w1SQiadAm_KJx0Z9AJrdTiec-53cOpToL6YX2iGVyLc73tatMYgBZSNvcOD9n3EIqG-AsSsJo0V0krWg4jAOcNi2uQ-Dm4PDeKGoGg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 13:59:46
+upq9172@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fupq9172%40edu.kunskapsskolan.se&subscrKey=d3d74775-d862-45d0-9674-fb778b35af4d&cid=924246fb-c7f5-40e0-e525-7ff4598e52f3", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9,ar;q=0.8,fr;q=0.7,yi;q=0.6",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVwcTkxNzJAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQnJ1bm8gR3VzdGFmc3NvbiBEaWF6IiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjIiLCJuYmYiOjE3MDI0Njc4MDAsImV4cCI6MTcwMjQ3NTAwMCwiaWF0IjoxNzAyNDcxNDAwLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.NYwrIpE9xp5DFQnbuT95Y1EeeYy1TFN5ctlRXS1kW59aG46Mao-Ss6PZAnkhJzeaFjWjejP_WovGf0oLLuujk60-95qwHhnjGwGhg4zbFMMi6Zw_kcGm6_Lb80x-iDiRuLKjT0_YYgM8QLWZ9Q3TFBISJPZ9TjWWymyMpEy40XX58K-t0RNem0zxD7dideCEChkn-Tv3mFJo1Gm7qhPiVBktZ3HACt_-tImFEvw4yMmn58QWJFwJ3u_ynm2U6Bh4nfunV1TIKdZg0mR2N925kERLdowhbC8p0yEuJ6WdUu3DtWW4MzPvGFqlzlACSIswJ5B_E90zqqSkWff1c1mlng",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InViZDY5ODFAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiU2ltb24gSG9sbWJlcmciLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuMSIsIm5iZiI6MTcwMTg1ODkyMywiZXhwIjoxNzAxODY2MTIzLCJpYXQiOjE3MDE4NjI1MjMsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.ivr3b_5mNjEKEGdWD_bRGL438_fvShgyjr5wQ0eoQFM-_MuDcTT-sDdrevTFz3Adp1Oqzdq8Camd9J0lhR_qGCCCanyPQ_8oAfltAcPnsUNDLDygI5C59bW7XsMtwXdRpQ_bPynW6hKn4-gqQdsNaS62GxZODvYLhnpVn8qSVtgPZ2nj1UwY2Pj7ZpsOPBxzu6NpicUFNTs5K5g3m44S2jWN_Rlcn2v-vrPywhDxv4OnE9LMBodSLjgCWf9Rh8UJcN_LDQ4phcMxsUfMBRLlN_W48cSBRVqF_krxyToSxHhL2fIXWEcd5BJYey2xd0Vqg4s3lE8zUM6vv8WnMs3sSw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 06 Dec 2023 13:32:22
+uhx9107@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuhx9107%40edu.kunskapsskolan.se&subscrKey=ade16c85-769e-45b8-ec7d-9af9b10e7b80&cid=4c0fa24d-a93d-4337-cdfc-9600d9b12137", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVoeDkxMDdAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRG91Z2xhcyBDZWRlcmJsYWQiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjcuMyIsIm5iZiI6MTcwMTg1OTYzOSwiZXhwIjoxNzAxODY2ODM5LCJpYXQiOjE3MDE4NjMyMzksImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.k4b67Idc3cRCTHO9D4OPoOdp_xas_9iBajtXA0N0J93ts6l-uw7KcDLN0TQgcqLvmBp481Pnm2F8KO2OTs_wuPzdFHM_BY2cZJpZPcTVvpJjU2SGjoMia-6mRbUp-gFECOezfoWvgrxoNGmVrGASOQBcX3GAnxRww26VHFkkx86qe9Z3XSMIFD3FYMih7taAWvwDRekOt7nYuff8-EgiDUGGQxoo-s8hssQygmFmGgCh96olRe_qEVpWpn2nL2zBiEp1wm-k12UheuS1utIynCMMbm2AMAwNJLEaPVCgHfe1_pv2fvlRKQ1fdgT0qt7Z9H640KrU-mk0XnLuQsdiPA",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 14:13:53
+uul3052@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuul3052%40edu.kunskapsskolan.se&subscrKey=611b2018-42d0-45c4-faeb-0b9fa701bc7c&cid=246be4b5-0203-407c-8e9c-3f881a390b75", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV1bDMwNTJAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQXJ0aW4gQmFkaW5zb24iLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuMiIsIm5iZiI6MTcwMjQ2Nzg4NSwiZXhwIjoxNzAyNDc1MDg1LCJpYXQiOjE3MDI0NzE0ODUsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.KjLudrwHpykFfjiAHxPXIOQytF_SkXzQ2AOAWzvkmryitj39theGEApD2t7ktOLRDwVTxb3U1XBkeA_f3RVXM1UFtFhS3K9OUbk4nC0qC74IIrs8q2eUrlcV3pPVUaqTx8C9h_p8OwJt3i3xQ0H2Z4ijoTSBKp2xYUJOmgOwQ3OEecBaIXOnycVSmXM0BiK0e7wcGQvdc6kGPV_ecUdAVpwJoPUuzq2RmD8-ERA1Ss3gbOxjrCrfAx2c4AmBmf52g6Luk1G4Qy_lAAbRj8VNmqFOK0uoV-Wo9WXKBVBHIn7GAgXXSdHZN5zzOE_V4Z43Kr2pNghRJBpdRsVIxoryNg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+Thu, 07 Dec 2023 13:27:47
+uef9745@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuef9745%40edu.kunskapsskolan.se&subscrKey=25b90e45-4c59-4858-955a-a1a4a84e5adb&cid=0baeed50-2621-4865-d753-6b38d0b0a8c7", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVlZjk3NDVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQW5uYSBLbGViYW4gQmFyYWJhc3oiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuMSIsIm5iZiI6MTcwMTk0ODQyOCwiZXhwIjoxNzAxOTU1NjI4LCJpYXQiOjE3MDE5NTIwMjgsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.fu54ejrZOcPXMDGADvF9Q9TLC2BE5M5aSnUZx7a5ruGvvbXmrwK_fZ0bJjXZpW0r47yleRHoD-YtrGHjQW5PTmRH5MaqyGRemlFsppW25MQSDF5TsOLZfyz9SLuNw_eK7ewL3MrXHdvuUyAMlrgRiSut3JUMBibDtrH8fyLTyHsEQjQ7Jll8j5CbNGZ2EO0d6Vwt9yz0rpIL_V0QHu2RQJ2ZBCkbS44iE4aABvbRoozIsGrfo9sMtVokboONSzn50yAdsl5LbCtOsiqbsn8FB9vxlTwmnVeP4TLmPb_yZOXEaQxPJjZYat8gUw5CA8_-dkHY3twI0LCzKiEtdf9MZA",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Fri, 08 Dec 2023 09:29:13
+uas4106@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuas4106%40edu.kunskapsskolan.se&subscrKey=40e85ae3-6201-4329-b669-33d86f8abc50&cid=030cadc7-e07c-4058-fe94-48a2a2fe549a", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVhczQxMDZAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQWxla3MgTGFyc3NvbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS4zIiwibmJmIjoxNzAyMDIwNDM4LCJleHAiOjE3MDIwMjc2MzgsImlhdCI6MTcwMjAyNDAzOCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.Qr2mJPGQHAR36DP4s-WbnqVM61pEfasTElo9ls3qCwovKgkiIgNkrxijsD1v1-35_TJqQmcuZdu8k0PNFsXIyk2ACvt9TrJbP9ccgEfvTQIe_uI_a3K5XB7gLNVmJyJZ542dM7ocSjUXb8oarvjQbGrYn2BoFnJWZHrCzhwzFKf8iPcfEhT0uZa5eVczISa5eXOAytvcXUiOcfd1oUyo7uVRcLUbUprVpbAFd-0st4k_pJ__n9yfSTxw-Qu8rJohjrZgh57mG7SXKsFiPx3qRhfKULbSCtOwBrNCK9dtKUtrOvvZ1nEzm_SjVysqfml0XvoNNJ0dZ8vxgXIBPEqQ9w",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Tue, 12 Dec 2023 10:09:23
+ukr2830@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fukr2830%40edu.kunskapsskolan.se&subscrKey=04025087-a6eb-45cb-b5ed-99d5ed6519f3&cid=dc4c3f79-b044-45c7-9e9c-3ba09a6130be", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9,sv-SE;q=0.8,en-US;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVrcjI4MzBAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRmFyb3VrIENob3VoYWQiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjcuNCIsIm5iZiI6MTcwMjM2NjIxMywiZXhwIjoxNzAyMzczNDEzLCJpYXQiOjE3MDIzNjk4MTMsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.de3WoFdlGqb2oyX5DsjCyHJyNfBEyAhCHcr-UeCiWpU3u-_xJNFxNrjCKVCU8VykQ279YDxJN3RpVaR9zZuG484FwyHwv9HdB5nvoS9YJVXxW4Sf8EHYYO9_AGsK9DAkzdpHKW9T5bCiM2HUkHpC4zmr2n0hgUH2Idiqwa5tWsdNPQsjuC3SAazafNfQBs_PvtE4PsEA0zC2DptTVnu58vpmGynWDKT9m9_kKJDOb5jAWG_s-3eKAW0K_9GVpHAlSWvPfr_NDkF7xEN57LpKByM8FT6Yu7MNcoNxiDojUl2ziMrizeBRwN1g9eoNIoOccoOE_uBaovKAkl0zjXvFWw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 08:28:52
+uwa5082@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuwa5082%40edu.kunskapsskolan.se&subscrKey=9b7d83f0-05e6-4e30-f350-57de5ca09ce4&cid=863e0b1f-0115-46ce-b2dc-d0c8f67e2b6e", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV3YTUwODJAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiU2ViYXN0aWFuIFLDpW5nZSBPYnJlZ29uIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjYiLCJuYmYiOjE3MDI1MzUxOTUsImV4cCI6MTcwMjU0MjM5NSwiaWF0IjoxNzAyNTM4Nzk1LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.FzyMHJSGbOjrekxmrFTqGQoyg6BXmzRv_RMGN2ZdFOg-0x_HIUlGLZ9SqKRZ_lhZXWY0Wff9tttSrEime_cTKEPFv7lvwYxQFv61BmzuDtIq-hkyQrJVPbl9V4-u_x8PT3Iya_8kfkbnpkhuqswX-KFvcMhLynLgdHe9jPhJcC4Pm4z1kg8avNYL3k9QFs7k29-VDyChQxAXKTzMFftgnOFXAnUUozneEGwPds4ypdoeu1kwXc54tpzgkkjk6b_Sm-Uaa6xj3V8sczNXo0nN5KLoW59wfHsTsomYg76_FH77yRh9Pm-EvHNqssrH04CXbIYveo7-1smx6BReFkTWqg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Fri, 08 Dec 2023 12:51:10
+uld4293@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuld4293%40edu.kunskapsskolan.se&subscrKey=e238d464-23e1-40fa-f52f-48c3180acff5&cid=836ac9a1-7c77-4d58-fc76-1d2e40a3d37d", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVsZDQyOTNAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVmlsdG9uIEzDtmZncmVuIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjYiLCJuYmYiOjE3MDIwMzI1OTUsImV4cCI6MTcwMjAzOTc5NSwiaWF0IjoxNzAyMDM2MTk1LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.IudoNw5uo0OcOIUiT-x3WUZqp7PbpVmgn9Sry24JMliQ-dOe5lo60lzV8kKsIE75EAcmOGkG4nUo4t6t2eKLOy7vlel1DUcYZBcmloV6IQgZitfkG0T_ioH9RyLjI70IQJthnfnBP0Wzjchs98HbWzThMmYjdqtebpYssK5PlrRR_sQw7QGnfosQStbhm4OaCXBEzpIlEdwhy2Px6PTtPbjcujAvjqJGGNTlaRh9mBowV2jVpeK6lbFw-aUc35pBFshw6cvqEkbXhKC8NGzxJp42BYB_jVM2JQ1gvlMHVg_HZShoCWIMzP5RI_1Pk_YOVTDJbLTzJ_nAiwOskAPBDw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Tue, 19 Dec 2023 11:06:57
+uys0368@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-test-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202351%2Fuys0368%40edu.kunskapsskolan.se&subscrKey=9c34e736-7a65-40c5-edad-3b878b0f32ad&cid=f2e2f3a4-4613-4a22-bbb9-ef308ac5b32f", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "en-US,en;q=0.9,sv;q=0.8,fr;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV5czAzNjhAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJ0dXRvckZvciI6InV5czAzNjhAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicmVhZE9ubHkiOiJlbWFpbCIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC40IiwibmFtZSI6IklseWFzIEFsaWxhIiwibmJmIjoxNzAyOTc2NzM5LCJleHAiOjE3MDI5ODM5MzksImlhdCI6MTcwMjk4MDMzOSwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.mQDLyTifd6dFz23qFRUYqqWYxaFYMpBHqw9FYS6wCakRkB2uCxzc7W_pOtRVmemisDzdpLwdEfy1bkcDZifj3WwWcQZHZUGCma0nT2I5bE9qOSGIkd1hGkIQCCGwGE_aFm2d79BnMV8mgUfaAxaYC4EwVeeXzEPcx6yRwDGDrkhmbss1UD7tW4RieC5Z033yRUKZyCzH_3E40M7PwMbhHSpzyUN4QU0JW-gOmutOhbNey6EKPQXWxU66l3BhBzhEbVxdDcoIDnEiZFK_c692mi-PtmiWDy8FE9-wyLvT-QcKOrmhwE0efyirvyXb7gxXXlQC03l54JJ8f5fXkNnBqw",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 11 Dec 2023 09:20:45
+ure8478@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fure8478%40edu.kunskapsskolan.se&subscrKey=52ed2c55-3b03-47f6-d743-1bee3b3b34e6&cid=c69b7333-3d0c-4684-f692-7424c6dc08c6", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyZTg0NzhAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQW5kZXJzIFdhdGFuYWJlIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjMiLCJuYmYiOjE3MDIyNzkxNTAsImV4cCI6MTcwMjI4NjM1MCwiaWF0IjoxNzAyMjgyNzUwLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.dHD_DPCM2bAow5gIn25Tbn7xneTSN8mrpgZxWu52uLztHFOtsYAsOEWQLWCZcajArFpe996A0Cv7_25BZgC18pV7QlSpxAW8EqyRsT6a_aQ1O7ITkJ-q-EyNbSQgtFKTsyZzaISo1QAP0sDVG5HU8CSmE3fd789R1CQDfQzfyGRg-Zoy9mP83fOeublV9_hOaCPft0X62xqmQFUN4gbLsp0t7b3SALm9kYbb3t4JWYwvICCs4BtqZgVdXprMx8nnoqTVq8mYI_Sk9sOFc6_QQItid61ziz6lIq50vSRbMYVYu2Er4ddvJuHtQolwIyCCV1Qd9EjtT28cy_PGSbUDww",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 14:13:10
+ubj0088@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fubj0088%40edu.kunskapsskolan.se&subscrKey=b293a558-3d93-4f06-e357-dab7aaf56600&cid=376ce309-2ce6-4b49-b1ec-ce5f1c7ca3d3", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,ar;q=0.9,en;q=0.8",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InViajAwODhAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRXJpYyBDcmFtYmVydCIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS4zIiwibmJmIjoxNzAyNDY5NTU0LCJleHAiOjE3MDI0NzY3NTQsImlhdCI6MTcwMjQ3MzE1NCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.sEWNoGTWuWsKTpXeAcFU3IO--cE6skyk-RxFbOALWmD190TFiZLKcwsDiglAg-oxPjamiXpMqNmvlXjpzhx77vYmS3KqC4-Osgqg6BFWvvgCahUXSET3pUu7-qOJbtzlIOWSqgF2BSWmvSDlm6IVwSLacRTlZ_v7qH7DJD_wzE7Vx2HOvgTkjUT8iDMfG-D2jdcoWo7_qHocu8UTrOphD_si9EacTpX4l2Dr3t5iCtjrrKKjz57asExuBOKJcuDczBLZhRsWCxRPwsWijAINADPaD4f-kPBk5jXgPpoOcS4P8W973hU_7HagkwVGijI5msMr5tEZBclzSuFMpDYV9A",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 11 Dec 2023 08:30:01
+ury6420@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fury6420%40edu.kunskapsskolan.se&subscrKey=9ba5e304-8f79-424d-a48c-cfd34780a9f5&cid=45ede317-ed1e-41bf-afbf-3d27ab979a7e", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyeTY0MjBAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiU2FtIEFzZ2hhcnphZGVoIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjIiLCJuYmYiOjE3MDIyNzU0ODIsImV4cCI6MTcwMjI4MjY4MiwiaWF0IjoxNzAyMjc5MDgyLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.cmhWC7O8aigrVJ6mteT_cxeYXSk1cHPhQk3g91gM0xe8geT2bY52xfTC33tv8wN9QtClz-SJDZo414zwPnxArsqdcbmKbe_tKNijlCLMMNwcgsrYgVI20e4qUCqcdvv8LJ5_KCOyFEOkq8yBVnr7atbeP4HtCTVXLZ9EpmLXaikR7or5v4K1j4Tcq1XfLr5joM8iU2JtskxXLsqNMrOQaZ7dDmBYgj52vXxlzKlyWKA1IeQXEx5VQ1C1kCbFkF8eKgZOvXO9R2de1Zb3KPob7XO6HTPYJfJpAo43Df6ta_qWROR0D1jMnqHWcgYqeFXUd2zSiWFzSVEMA_QW8mlFwQ",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 10:13:15
+uur8158@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuur8158%40edu.kunskapsskolan.se&subscrKey=8e452386-759e-4414-d7bd-52b8bd0edfc1&cid=c868efbd-78e0-4b52-b1ae-12051cea28c3", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV1cjgxNThAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiSHVnbyBBbG1zdHLDtm0iLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuNiIsIm5iZiI6MTcwMjU0MTUwMiwiZXhwIjoxNzAyNTQ4NzAyLCJpYXQiOjE3MDI1NDUxMDIsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.Ez6uLoYmiICZ2YoQ3c6Y5awiYoQVQQDjA6tsY9qUcKuR-tZC56-TgCnANe29tDxfThZYY9aXNONdUBtxhwetl-t1yAw--bwSN94YYHBKK7nj4-sEeF-R_AzXp26v7up-lRnNy9DHj5ViCCU4IqqfzKMOSpYNLSC_cPym-_9tllPbu3NimcKO5D9cm3ePGvilrGi23z_zGC_Jg9EsOr8PeDySetEs3qPviReD9NsWkSsqMEDDoBYKU7yIYufch7IXeb9m8cEVgKeVW8vDWRh7RrkK2g3u7Ta4AxZHzC4LurQiGusw1XcVEe74IQ1f5OZJB7E97OX6rueSVSrXClZ49g",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Tue, 19 Dec 2023 08:24:59
+uqy3891@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202351%2Fuqy3891%40edu.kunskapsskolan.se&subscrKey=082b4fdc-f224-4457-d98c-981381114d22&cid=2c3e9e06-e08a-4a09-c10f-c2bb3a4e78c1", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVxeTM4OTFAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRmVsaXggTWFya2xhbmQiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuMSIsIm5iZiI6MTcwMjk2NjYyMCwiZXhwIjoxNzAyOTczODIwLCJpYXQiOjE3MDI5NzAyMjAsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.Y_fJo08fulB6RD3AoeRiJ-CAlHyc4gppkc60Jj_ZhDwEGYwPOQNQGI9BjI8X00hz2HeZwGUppn42q8FhHuPEdAR5bJcMYEljpV9fa2TxAHorw7Q7m4c_BxgYwLhaXu8YyiFavALZCfxmz1MADALk-KOHIk4lyIMLb-64Hst9gXw2-AbdjPo5KjcdoNZMd3UWzlUSSSWbw7DNhqfi8pCTETaiUbrzslC8Q67IlU7j8UeIKYHvppAKWCKZLuDhxoNBnAcDj9TUbEIFOdCh9R1PQnKW3saiyH1UYCCtgWl55qPjUwz9p0P6nmW18zFjFyufQndimjCo31ShBF6vTdqSuw",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Fri, 08 Dec 2023 13:02:06
+uaf5765@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202349%2Fuaf5765%40edu.kunskapsskolan.se&subscrKey=0152ac7c-b089-401d-d0f6-9e003bea59c5&cid=e7343a94-d26d-460f-b2d2-64bbb2313731", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVhZjU3NjVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQWxpc2EgTW9yYXphbiBIb2Rnc29uIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjEiLCJuYmYiOjE3MDIwMzI3NDEsImV4cCI6MTcwMjAzOTk0MSwiaWF0IjoxNzAyMDM2MzQxLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.TT6YdK2YBzfuZxHOerCw4k074uMfFUAZBEVfybLdOg73VDLpfAFuXNc7yIzQ36__3koH5vnP7_KzC1BOgeId4qdLetRUGxtZV9POKjzQyMiUUOphyq88aj4V6CZBO0taeXBFKqXjZQkX7ayf-hDBZx36N5GiNDw4jTtbnoXbMYPlstrWz59YlDh9BAslMQWIpW5fauztHElHTKmz8rIPMKOHMVnTq45qeVo-kgDVPkkji85CMQm6Brf0y8Wtl9byzWYxURrwuwXQPWwqqqAh64ulrYHE0PvYnrr3Gqjn6pwN2yOjB9u4uHXZWlV1hnOmSdS4unECaQt6lQBt1UWlWA",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 12:06:43
+upg5701@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fupg5701%40edu.kunskapsskolan.se&subscrKey=43665b22-c6c8-4be2-ca08-eb6f41117cb4&cid=1a60bc2e-6e39-40e9-e0ba-ae8d25e19ec2", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVwZzU3MDFAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVmVyb25pY2EgVGVzZmF6Z2hpIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjMiLCJuYmYiOjE3MDI1NDgxNzgsImV4cCI6MTcwMjU1NTM3OCwiaWF0IjoxNzAyNTUxNzc4LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.Y1SWGyovC-rfOJzPDiMWpurcbOa1ecLRShOMIgj0SjiOboiBXK_ssHlVsQh5Z1voAS8o-h3y-qQZsgNbB7yoonPFQSGsBuBIHKJXXuCz03JXajNx9jUY47R6wcm6q6oa43Eh_fz83X_06r39FPJln_fqWGTJ-bIX8rtSpiqw43bC3hv_omXGTG9Ws6DNUNa9ez4rtfBkJceBRj9aWsxZAQHIifK-Uc7pYk6Fe8iSvJ3cTLVF9loXuFj1a9JP1od_U1HoAnj5J8-kLx4Q_4c9URfORTr2jophD6at4qyF2yLz1V0UX8evERrl4f-BPMQvOh_0aM6LHcuAhnzD5cnyFw",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 11 Dec 2023 09:55:05
+ulv3271@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/messages?from=1688335200000&to=1719525600000&role=USER&tags=email%3Aulv3271%40edu.kunskapsskolan.se%2Cwp%3A91fc980d-b3f0-4287-d357-5e8cd7a6d1e5%2Cpt%3A93db5339-0601-4faa-d365-9119edbbd204%2Cpt%3A4a156eea-58f8-4502-bc59-e2f4606e5bd2%2Cpt%3A1da0cd64-47cd-4ddd-cfe0-f27ca3dc9665%2Ccg%3A153%2Ccg%3A9sv6%2Ccg%3A9so9%2Ccg%3A9so2%2Ccg%3A9sp2%2Ccg%3A9no5%2Ccg%3A9idh3%2Ccg%3A9mu12%2Ccg%3A9.3ph4%2Ccg%3A9en6%2Ccg%3A2%2Ccg%3A1%2Ccg%3A9ma4%2Ccg%3A9hkk4%2Ccg%3A9no3%2Cbg%3ASpanga%2F2023%2F9.3&subscrKey=4009e623-dac7-4bf1-d4bf-d62a44e445bc&cid=9008272e-748c-4ec5-ca52-8382fc5f95b8", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVsdjMyNzFAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiTWFsdGUgU3VuZHN0csO2bSIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS4zIiwibmJmIjoxNzAyMjc5MDA1LCJleHAiOjE3MDIyODYyMDUsImlhdCI6MTcwMjI4MjYwNSwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.NJ5ZG3SbQdS9NLHABCPCB1_Xf7czuJkJWXr7qniA6Fqj1Y_NnlhfcBZUs6F4tGcS1MrPubGeWwoxoL8sWvK0B4bV8hJ156zNuW9ISasOqZ3ZxxF4zHEJjAIi1-iJbtu-s9VlL1OvbwkehipQFC9VWg5OXNT-jk31SZab8H-ZBTebzQ-pkD3gJZO8YcVIVm8Iy3xBnrv4vGLah9_XWumnnI2deY_fhtYjhfz8rENVxQ9wNmrj1QQdT7bcEe0r-uWHYP2L2pjB--HG9DN7r-ww1xLTHlMScU4VNJ0kELpa_i1h09S3EcOIezr-hFxIzJDwWom4uulJZvOpX-JTmwdyoQ",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Tue, 12 Dec 2023 11:12:21
+uai4387@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuai4387%40edu.kunskapsskolan.se&subscrKey=9d348f54-39af-4dbe-97a3-302e41ca8121&cid=6f4610be-2f8c-46ca-843c-50336cd8cc1c", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVhaTQzODdAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVmVyYSBFbmJvbSIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS4zIiwibmJmIjoxNzAyMzY5ODUxLCJleHAiOjE3MDIzNzcwNTEsImlhdCI6MTcwMjM3MzQ1MSwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.jTdg1cilMUIyxTbWO6Cc4_y01veK20gqoc7Tx3_911URcSbXltBA5pJDRPUDBTHmwlZofUX7PzsJuPaQ4yWshlEGK0a2NESbDVg6i5FsDydJ4N2Nn8ea9Mws4MJ5ARti-npcHrDLdgD-eJ_K8O8PNtUf_17-AcTYNIWxzo33B5Iel1N2EmHczvMGBHSsb4ZrE4tKYGgAz76mQa7Rv_QL63SUO0B41xk8PCSNgZXhGcGZay4AGcy70UGHh1T3D_L43lXKcmLf4lok5jgk-_2rG7np44avVklHhPBVvic7s1O9MsBSjEVLzt6eT8BRLB-QmOuwy7fIc_MNdwA5wQppRw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Tue, 12 Dec 2023 09:05:43
+urb7680@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Furb7680%40edu.kunskapsskolan.se&subscrKey=cd9c60c0-5016-4e3a-e50c-0c2a7ac83686&cid=7731d1a2-3ef4-439a-acfe-92ee748415ee", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyYjc2ODBAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQW50b24gR3VzdGFmc3NvbiBLYXJsc3Ryw7ZtIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjIiLCJuYmYiOjE3MDIzNjQ2NjMsImV4cCI6MTcwMjM3MTg2MywiaWF0IjoxNzAyMzY4MjYzLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.XkcjoAAC_jJH9GBMfeEX45P80cBUFAFhzsfn7c_T0AbqYrBFbTaZFAQrM05OA9-eh40vVAGNAnb_JHB6YVFTZ-vW2k5PGHFNup18GA41a3TKvTab-hrHgMjHo_smahmsr0-kjukKTfhBNkZwyeHZcO08qtz-p2r4KXHKTh_4hXMGQe1q_09Uwwfpqtk6MStlK7LwqQA7C7yjWIg4NvVTy_w8pHvh-pNdGh6dXNoJ0wOdmXigj7zmDOszuo97f7Gz9-PRoy7dt-bILo3opxXupZ82m81YIERiiPLjKQ21SxJIFmHdGHPPUF012mOsc3q4OZiHrl2TmTFs41Crc8Gdqw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 09:39:48
+urg3499@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Furg3499%40edu.kunskapsskolan.se&subscrKey=ba35720e-3292-4872-8a18-e7e74770c5a4&cid=382a4996-8a85-4b0d-96b8-d823a53d541d", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7,de-DE;q=0.6,de;q=0.5",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyZzM0OTlAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRW1pbCBUb3JkYWkiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuNSIsIm5iZiI6MTcwMjUzOTM4NCwiZXhwIjoxNzAyNTQ2NTg0LCJpYXQiOjE3MDI1NDI5ODQsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.GgxAInlSWFQ7mpA4dyWy5L0TUq_EdDlVC9vIIAhVnRIw295MypIq6yP-sAFvXoH3fP4B_a-BJN36c-dAhdQaCY7WDJ9RWMVg_kykQ1Ii6j947ojPVZsxdFCLq4daky0ExeXHAm3pIBa99x8NSV8wFhtrg8oqv-oQcdhetZXLSVRKZSkAWBeBNk1PjoqWOzVAogi4Z0Oiqin2rLWxXtXQsTmEyXsW3QI5-gfxpyy_2VWcy0XwCOfCg5ApAATiD86uGUQURRWpuiTgbt0_thSW4sVWA7GqujNCJtNgXjawddnYQM_Xw2BPczrjEj9qiC-cTCq2aHSTe9LjVDDGsG8Tfg",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 11 Dec 2023 10:09:15
+umk8696@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fumk8696%40edu.kunskapsskolan.se&subscrKey=57cf2a43-defa-46b8-e314-5f08dee468a3&cid=98622aea-0ce2-4a06-bb2c-57d505c43aab", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVtazg2OTZAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiTG9rZSBEYW5pZWxzc29uIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI5LjYiLCJuYmYiOjE3MDIyODE4NjEsImV4cCI6MTcwMjI4OTA2MSwiaWF0IjoxNzAyMjg1NDYxLCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.dBQKxMm54OpPeu4tgAAIw80hKjs3aGaC5ik9UCCOFG8mPNCk675GfITHWN2PW17b2quF4G4ObsIkQMN2QmUmDTgDrs1lTNU7tTA0o0SZKnor9zpYdjtxV50xJPAg3xgK2vOe1NgCaM5VTNCUA5UK7-FYlB_eVLokI_ArZY0ujbDN9I_3XjWTAyIngIjIGATjI4DUGHJtQRXdvmip1c_9MZ33ZPlFfeqlMwrcQ7IYgVmCiHm5NCxtWAGcBA0tq3eGouNM2dMDx2EaaD0zg0C04dSHjc7thk5p2pFMGluHhdiogiZDCK_mMfgWctejQveAD2_m649pVOFdbMIh3x6bCQ",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 12:06:43
+uty0734@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Futy0734%40edu.kunskapsskolan.se&subscrKey=8562fece-fbd9-45ef-efb2-95a23e16bc60&cid=ef1e471f-0b4e-45f4-a569-d3bced398cb9", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7,de;q=0.6,ru;q=0.5,es;q=0.4,la;q=0.3,mr;q=0.2,fi;q=0.1,vi;q=0.1,fil;q=0.1,fr;q=0.1,jv;q=0.1",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV0eTA3MzRAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRXJpayBPbG9mc3NvbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS42IiwibmJmIjoxNzAyNTQ4MzY4LCJleHAiOjE3MDI1NTU1NjgsImlhdCI6MTcwMjU1MTk2OCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.neaAmjUekMXn6TnnGrv6J54L2-TV7OuqGiGWIdvyqoxp3IejhFbjYeZNn2fmzsEtlpx9ClMkaN_5OyL80bfYJBIUKdyI_l1SA0ROJ2fJGztucQApnxmYgWE1eG-Mw4Lo0X47wdNkscY51k-tfqrGUoLIt_em7txY2r8v4V1l69PD-RsQ4ym-T7W2ha1-OgtwV7NO509LYWgYXo61j7Rz7GFqeNwCvPnLmdBat7fmrzOD1K12j0TVOB0Gy41XOomQCQckJzaqmX4-Zpo8NWThyXvT_xADrfbW7ft3St3Yzap-X0-U18pFcVPEEDOAYQZFLNsX6k4flsQJtyV_plhxsg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 13:38:59
+uwq4057@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuwq4057%40edu.kunskapsskolan.se&subscrKey=8246fb6f-b987-4336-a0c7-c3028c579a0d&cid=0c12b2ad-6b73-43b6-8e5a-f14fc5112a32", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV3cTQwNTdAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRGFyaW4gQ2VuZ2ljIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI4LjQiLCJuYmYiOjE3MDI1NTM2NjcsImV4cCI6MTcwMjU2MDg2NywiaWF0IjoxNzAyNTU3MjY3LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.oJ-QOXl7jJlZq2cyAezhCITT3a3I1OBUjJ-Z-XFwMM1-USZfVFBOKlysxqTJXjgDobnccVRcozRDcNCLkCLTsYqMcWAV-fmd5Rbtfwd0HfzNK78jNNp6EIrJMNk5ya51K34w23vnA6zuLj27OLDCPSUQy7DdER35u18QW-ukmLvkspgVU555dELcS0o9aSZO8rq-atQe0-x051S-XhiLz5fb6mTnFb_wGbvCMzaK1HZ5PrrvUgDPDuVauwLyDPc1iU_ofvujh3-9odzY2xncFjL2MKFzPaMBz0NriNu0YEvLvS2ERgFNqJzGJMafKDv1ek2X7LvbyiFGi99wzW-Ltw",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Mon, 11 Dec 2023 13:32:24
+utr1285@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Futr1285%40edu.kunskapsskolan.se&subscrKey=4ca30d64-651c-4ea5-82c7-58d355b7b2a0&cid=3554cdd5-afbf-4055-ab9c-7e22acb23bf9", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV0cjEyODVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVGhlb2RvciBKYW5zc29uIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI3LjMiLCJuYmYiOjE3MDIyOTQyNTcsImV4cCI6MTcwMjMwMTQ1NywiaWF0IjoxNzAyMjk3ODU3LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.SnPucMAAh21Y0kSkPJ8DiV_zIwgS2jhx-6Xt_JqkJ6yRychQEAw-5dJO8th9PWMot7rcjsYaLDt97NR2X4wAfCCkKeTTFk1oCK9jzinYKUlFzY-9VuCaKrPzvNIkZsGhGH_5aHstpcMFQbq9EL7KJ67iaZEiVq0UjSJ3aa9Mv3wIHLHZ0BAd3NPChxbpNjwscELl6Ljr2bWwtK30wnRoPiccEfYOr65kWBS_s1bofXOYd2IRh_29spT5Omz3vgM0_zGn-Lu9YwucfyYzQB82Xp-VN6P99mXmliZL5G5Jrduc4_tnCS2w6qnsAD6OFk1DiXlixCE2Wz8bl-sTFKW9Pg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 14:27:03
+uka3698@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuka3698%40edu.kunskapsskolan.se&subscrKey=62d91e82-037e-44e4-ed7a-f3c32600b7fb&cid=60803321-b579-4ba3-9704-a64b2995be92", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en;q=0.9,cs;q=0.8",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVrYTM2OThAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVGhlb2RvciBCbGF6ZWxpdXMiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjguNCIsIm5iZiI6MTcwMjQ2OTI0NSwiZXhwIjoxNzAyNDc2NDQ1LCJpYXQiOjE3MDI0NzI4NDUsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.GMYNTAMM8qfkAk9yn5GedjDq1YhjWFvRskLzAfaTwGwifEDGTy9u_RuPHUu4PwVV8MiaR759wr1Y1vnvaxnJtjTEIx26fg1sXAsGB0RFu-gOe6KGJVsVwooR4rjMHsdxOVO_fsJ9BZu9Uk8oUVcld2p0EpNbJ1vXoDxBBgE8laYQhdKzk30IVY4kniN5BOjuArh6Q-NN5gLS9YbN-CoQ7OEiiB7rbtAVeQS_sFyrKkJddyTgGxekYlJqUyfjKG6YlSMwFTrITH0HGOZEsC7ziWSJWZyiaHDYl2O7v9mcvm_ANxkZ4MP0u78-i0lTihOSG9k8bYWoW0nZr5ZUTeGHBw",
+    "sec-ch-ua": "\".Not/A)Brand\";v=\"99\", \"Google Chrome\";v=\"103\", \"Chromium\";v=\"103\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+--------------------
+Wed, 13 Dec 2023 12:21:14
+uch6215@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuch6215%40edu.kunskapsskolan.se&subscrKey=4e806899-dde3-4010-fc7d-204935fe2096&cid=ad6478c5-1f4e-47ef-f063-c5c6951be565", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVjaDYyMTVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQXJ2aWQgRW10Zm9ycyBGb3JzZ3JlbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC40IiwibmJmIjoxNzAyNDYyNzg0LCJleHAiOjE3MDI0Njk5ODQsImlhdCI6MTcwMjQ2NjM4NCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.ZRelMV-OCzSH_ne653J-YA3AFk2ZvFbM-zUPQcVLRNB-W8NuOSnHq2xZ9agIgQAj_GaARuVqvWw0K7M8GQkWMjgZ3eCxfEvzJntuwvz4UwQiOqYDK_GFlnOKB9o3i24FqIFuq9OIa8nHsBnjeJzvHECIXu8sdDqc06H3Co-qe12b7WJpjK4-_4m3dxxDK8kxCkmPCn-XkQyZUF6n3vsg5XcOmxyoQrCyzFFIJqHVSof-ik7CX6Xwez6vmdTiQn_IoZM4DVSuY6g9DaQmpRVKxMhH8NvlinynVgsYTc6fYbFXQe3ygPQNAQ9P6FhL-KxugUMGR_wDXWeNmTLIyjuDLQ",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 09:39:47
+uzm1547@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuzm1547%40edu.kunskapsskolan.se&subscrKey=8d87b7a4-60c9-4620-da26-77f35c00ec0e&cid=24bbcdc5-54d0-4a84-a642-261bc8924424", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV6bTE1NDdAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiTG92ZSBOeWvDpHNlbm9qYSIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC42IiwibmJmIjoxNzAyNDUyMzczLCJleHAiOjE3MDI0NTk1NzMsImlhdCI6MTcwMjQ1NTk3MywiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.RZLWdHBkJNG8eqJtu5B6becb94bhtfhpFwhinrrQVD1Pm3BdkzjC85toLgy49uW9Wjjx0fd7Uk4bQOuQ0simL8Qn4Q8W6Ty3MTEXFYU292JBR9UEPRmAFzsqu9dJkRAhYo3Fe9inDIZL4VZAbywpKrFdOop48f1tiqZvoo1_qfYbzfCWmPKkmiLtQylJYZY4wW_0q-iMeBVgARW5n5bdT565huQayNHAcB_y1E5boh3nSJm9tyoYGNRLIC5Oi3yiTVgHHzgCJjYFc5l8Ur7_PV8C98EnVOSCm42QGes__PjVi94F0JR7dEaWY7q-m50MLNxzTZdWI1VUylF-zh0vhQ",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 09:46:33
+uqe1865@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuqe1865%40edu.kunskapsskolan.se&subscrKey=a523eee4-ac85-4328-cccd-47cfa4d5e7c5&cid=4b9b20fe-dea7-422f-b966-eb7e6a365375", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVxZTE4NjVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQWtpZiBTZW5lciIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC4xIiwibmJmIjoxNzAyNTM4NDk0LCJleHAiOjE3MDI1NDU2OTQsImlhdCI6MTcwMjU0MjA5NCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.P5cbDsfn0BSX-nxquK2vdDP7e1ZOXGekoz3xA79LQg1OECh8ExEqHVraovRJwy3-VSHWVPbJIV_8ElPC4KSe46J9QVldNFk2-dCDGULRPh9SAmOI92pH9Z1eUuwjANznLoNH-gRSo2ifGUv0Rm0rl0wf1jYzBSCC0rQJ_3KfEKwwq7bDsXv1I6ZjmHjh16nXqLVe_7WQBWUcFGKROxzO-vbFj4JnA-bdtzbJJsMr2QXvzxzhT0NStLS7o7CGdz80u38SZFNNQt68nzo7PzCoFataZn7lmXAn0dQpXiFIOgAaL7RJ78zjQhVOINDIXZfj9Y9e5zGMtdWCO_i84hIyag",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 09:20:31
+udm1985@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fudm1985%40edu.kunskapsskolan.se&subscrKey=4bd15c94-0595-436d-9289-9a3922a371d9&cid=0c80852e-0e31-4713-cd80-17e21b95d192", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVkbTE5ODVAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQXhlbCBCdXJtZWlzdGVyIExhbmdlIiwicmVhbG0iOiJTRTEiLCJiYXNlR3JvdXAiOiI3LjYiLCJuYmYiOjE3MDI1MzgzNjYsImV4cCI6MTcwMjU0NTU2NiwiaWF0IjoxNzAyNTQxOTY2LCJpc3MiOiJLRUQuQXV0aCIsImF1ZCI6ImtlZGJhY2tlbmQsRURTLGtzYWNjb3VudCJ9.BCtXibsoKf2N0Md0SuOOZMKByIQ0IZxrI9UdxmMrRQ-2AgiJy48bdfnAFy6XbaigIXhpnOKjO_8HrgvUdM0Jj6b5_S3JX5mG1mhsZ8FMkECr1-U5Ob5AqWnnQp0mnTvR9d2v_RXMnYIhXlgCMgnGGaWMY0_B0RGXE9voJ8nPwNy4U-6UDvSbSlxQPgThoe0GoOI6ov0-AMOmhb0yAbMiETUwrlSJJK2SHA1V2R1MMEyjmK2RnhN8fT5JcQF-qBs71947QLXXobUMvyBh0SZnRiJm_7xd5ghyH_Nsx5GyULgIkduNz2zF3G3HC16HsXIgYnm9R1Mtskdm8rjaOSS_7Q",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 13:09:57
+ubq3519@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202351%2Fubq3519%40edu.kunskapsskolan.se&subscrKey=ea49e106-ae3b-455b-fec4-47db920b8f88&cid=acdabf3e-721f-4ffe-9b5f-7cc136daf1c1", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVicTM1MTlAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiVG9tLUhlbnJpayBXZWduZXIgU8O2cm1hbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC40IiwibmJmIjoxNzAyNDYyMjkwLCJleHAiOjE3MDI0Njk0OTAsImlhdCI6MTcwMjQ2NTg5MCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.EZDa7dQSCHIL13Vp_N8CZ1EqCnNlKpBgMlxjMh7LgMPdl9X-L7sTDzSTa1Sw4Sa6GBNCjH4iwQzEBdkghd50nwLW1LTUK6cJCcaWieK30HBvCUJ9cKfb4MDo2T1WTiM01-XXvFiM_i7awr2tAXFH6d3eJKQcTBFsJNYpDNl2RqHUEXYxCCBegbQSk04BlK4uDwbCHXWGGaNonvOyh0viZudEcxHJbZDTESOYBFhk442yJZuFqMy8zf5acPHJaH1J88kNdbmfq5r5-0x8UWplWUCJx4GpUTUt2TRGyWlr8cTPp_QqnVU1nd4_8IurIlh8lr-YP_UF9fL_2ifOMcFQ6A",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+
+
+
+
+
+-------------------------------
+Wed, 13 Dec 2023 13:52:46
+ubc0489@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fubc0489%40edu.kunskapsskolan.se&subscrKey=a5be9564-2d8b-4dcf-cb81-dd77aa8588ed&cid=0f2bcdae-9f87-4836-c054-9edd2027ba4d", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv,en-US;q=0.9,en;q=0.8,sq;q=0.7,ar;q=0.6,pl;q=0.5,ja;q=0.4",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InViYzA0ODlAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiQmVuamFtaW4gSGplcnTDqW4iLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjkuMSIsIm5iZiI6MTcwMjQ2NzE4NCwiZXhwIjoxNzAyNDc0Mzg0LCJpYXQiOjE3MDI0NzA3ODQsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.BfqUpdCZrr4D4GxjR80f9gmW-GD2htyYj5jfI35KeZ3oZLlKdqZYgF4rkxW4NuFU0BdCzxNLS27JmbZLZFGOGD6yhQ60yzG8yGiUHTPBYyklQJxPYy95dm90XKFbqJdiH_gFX24NYAvTYAK5adJlehMzTbIxzyF-2-xdtI9LnksfLprxCZ_DSSYwv2nDHqNw-zAccHTThbQy2JIdVxZSBs4DX8E5j6WPK1kmGCPm5CHSTMsh3hB-yDaDiuz9XDLh54fvE__Q62E2VPjDQYx-vlHo_1nv64OoGAAfFvv6nhQCa3FKKgQossUq4QyX-bXMr83AKeBdobnbQUUMxvgjYg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Wed, 13 Dec 2023 14:50:09
+usc7163@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fusc7163%40edu.kunskapsskolan.se&subscrKey=f1c16a2b-0087-403a-fa3a-0d493689a350&cid=9871545d-1ae0-479d-a8d2-ce65d7461a4d", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzYzcxNjNAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiRXJpayBNaWxsc3RhbSIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOS41IiwibmJmIjoxNzAyNDcxMzQzLCJleHAiOjE3MDI0Nzg1NDMsImlhdCI6MTcwMjQ3NDk0MywiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.dlnX9d41CFcFqyFbX-JhlrOShXwIz82YHalPzPyjJTqwjDlL7GBdbYYV3lpeNjYs4lZkbW6lMb0thJqv9iCJRXfPj_GLLUeCkPFWvea2ng7tmChZFE5Lu_rbCbd27SaPWW0-E6URngVi8te1Hx9ppQN5uJM69DsJLZ64Qr1XLHYuIpkijCezyN-8KEJV1M_w6gO1U1D-53Z_a4NVOBaxgtI5lAzHs7f9l5uuLT3W46R5rvINK8u7G7Tm740XithjiEuKhhfZD-bOM34gL2InSYvo4QUTjBK06efVAoFU__GpZqZdD5eblGOukHDmerWxiF8La2JQHqHLpONmgCpj2w",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 10:53:55
+uug4530@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuug4530%40edu.kunskapsskolan.se&subscrKey=952a6405-97b7-4f79-fa59-935543d19ffe&cid=f162a9b1-1d81-4444-8eff-ed65858b3343", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV1ZzQ1MzBAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiTGVvbiBMdW5kc3Ryw7ZtIFN0w6VsYnJhbmQiLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjguNCIsIm5iZiI6MTcwMjU0Mjk4NywiZXhwIjoxNzAyNTUwMTg3LCJpYXQiOjE3MDI1NDY1ODcsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.C4gUa2OCfipNKUATdQtwdhlf5TE8Bl4yZ2XEwvW7XCT0y9tc3rvUJzLsVe7HTt6ye14bfR0Y4j7gZWN7yckBK8KwDE6CaBf5SS1ZDSDkXDo3PcOy1lWwW-7TW7wPz8M7D7UBrkCAfyaAgcjHj9Xuip9TFduNyfUzZaZFlPF11KSJOkX_9hBXYGSCvbKdAtb1Av_VBdKfXbmGAnLxCzRe_u5cmRzqWatRVM7t9fM51sy9nmzyHm1KQ1ZnNBQtg7o7rxIadHwYHXrIlTHsHLv32Is3q_AUs719trnxc0SiZQnGcBxoCLhVDEy9OTWzr5-UMw6Y_Kw6qzAUZzF31RbZVg",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 10:59:26
+uam0143@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuam0143%40edu.kunskapsskolan.se&subscrKey=87a136d3-544e-4ac8-ddca-7fef687867e3&cid=09a34531-3e53-4522-c0e2-0cbbde6163f7", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVhbTAxNDNAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiU2ltb24gUnVubmJlY2siLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjguNiIsIm5iZiI6MTcwMjU0MzI4OSwiZXhwIjoxNzAyNTUwNDg5LCJpYXQiOjE3MDI1NDY4ODksImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.X_2aGlYB-75NNBLeTq66iM4uCOGlHiTx69zAA-TXQYI4xnTraA-P5zr0uLJqak6rLORehcPa8nQ8PTibw6b7OLmbqEBvuwHaDy4oYvUeJIG8ALa0OHoPPJnneOr_qNH8LSVjhyTCx3vGt3ZbvqpatmE0MoTCoTI4mVM3uleMu45xIbM_-1YENwNGNet2aLk8N07aLlImMOPyqd7WJmvc3r4RFUuwAwJDTCX0MPSUt5yyxcxQx8xScjwZgD6EG78kpfcJEnKrvnlznMXTGVlTeAutoh_dJzSu8UOhM2XtEfoah-KPbLBlZazbJrTjpmPQQcvY7gn_Zcq4F1sWNI47Mw",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 11:13:38
+uwk6754@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuwk6754%40edu.kunskapsskolan.se&subscrKey=5286f222-7b63-4783-e9f8-b179102293d4&cid=b2d006ad-af62-4479-e34c-a25459079410", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV3azY3NTRAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiSnVsaWEgUGV0dGVyc3NvbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC4yIiwibmJmIjoxNzAyNTQ0MDEwLCJleHAiOjE3MDI1NTEyMTAsImlhdCI6MTcwMjU0NzYxMCwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.oBz83jFVXCyo7jGRtflS1__S1YeygX4_6SCiD41rRV54VcLMNYGTpMlV7OuJbH6ZEMR4CDL_L0K0v58L18RWdGn7lKL1WG4-R1ERag_Vp1nOcIcJ0VnjjzPPZQWyeHqfhjdjymI01EObgQ43GMVuZI3z5ypntoLRtC29qqiPX3t_ywS2ngNDqXsp4br_tqq496r3rDtcydlQ33nQBg6rzjqSWD9Vm3_iA7L9Hm7ITZQmxb1MrMlsaHsBEKlplBUbA2T7Jhug-JLwsXBp1Wd9P75pk3cubecUUFWJAC7_82O00OBZkhuGb3mo2GlLmRxWTlOswuRlpZ5gMj-wH-qoZA",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 13:37:01
+uno4139@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Funo4139%40edu.kunskapsskolan.se&subscrKey=649a07e8-ef6e-49c5-bb09-71a8816bcfea&cid=ec49bc23-476a-4916-f5c9-0bfa057c7ed0", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVubzQxMzlAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiU2FtdWVsIERhbmllbHNzb24iLCJyZWFsbSI6IlNFMSIsImJhc2VHcm91cCI6IjguMyIsIm5iZiI6MTcwMjU1MzY0NCwiZXhwIjoxNzAyNTYwODQ0LCJpYXQiOjE3MDI1NTcyNDQsImlzcyI6IktFRC5BdXRoIiwiYXVkIjoia2VkYmFja2VuZCxFRFMsa3NhY2NvdW50In0.sbi9zVY8ENxLbyBXb1bkyCbLPxE3PsrKCRO1ibSILA5dgCKlRWciKgssQex70otYaeaiXTtFIdkDy4mmKwlhv3MA8dKrgM3gninPATkFg5ew0WE2OuuGlWLB6KNzzekiKlWDG5t4PQETm6RRtASSe0L9PAY61jyadkE9IrA8S_xzb9cywff1hdS1A518MAcZbZ8VwuGim2UTQsYlRLr3kbyyjdYxTa7d1Xe8XwFlSX-Xm2_EGV--w0CplWX68va0V7IZz6sccLL7LZqfKzT36Eu_RTq0m7fdPW7DF1b1nkCx8arOl0mwhNtIEbz3vcKiHKeJaAzAjz2dAS1hsUO8IQ",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 13:37:55
+uyh2586@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/workshopBookings?tags=weekUser%3A202350%2Fuyh2586%40edu.kunskapsskolan.se&subscrKey=4d31b78c-c743-4f7e-f060-ab62a01d382a&cid=9509c0b0-ad57-461b-dcf2-5955e17b9e50", {
+  "headers": {
+    "accept": "application/json; text/plain",
+    "accept-language": "sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InV5aDI1ODZAZWR1Lmt1bnNrYXBzc2tvbGFuLnNlIiwicm9sZSI6IlNUVURFTlQiLCJzY2hvb2wiOiJTcGFuZ2EiLCJuYW1lIjoiT3NjYXIgR3VubmFyc3NvbiIsInJlYWxtIjoiU0UxIiwiYmFzZUdyb3VwIjoiOC41IiwibmJmIjoxNzAyNTUzNjEyLCJleHAiOjE3MDI1NjA4MTIsImlhdCI6MTcwMjU1NzIxMiwiaXNzIjoiS0VELkF1dGgiLCJhdWQiOiJrZWRiYWNrZW5kLEVEUyxrc2FjY291bnQifQ.pbQikp2V32qEuXJdTS31NrhlLzI3b06-g8oqnVXdPCqGymJZywTFW2mxOE2It5hDHY9SHuwzlgTz03CkjQt1a7Wo7zgfP-Kck0ppa5fccDCFPLQlmISOTKcOHaZb2DMro1JHFVu1yZi4-Tev9AI_gqAwmRqJnIY6-BfHvt2ODiEv4kmxWfcMI8NMZgjVkfo40W5fE4SJBFQfIokUcJ8gDe1aiFJSzJ1Rzn7ZyAhbLQ1E5lARSAfn5_v4qOBi-elC3NkR82HaBW_7Nvk1TP2lYuJXwwFuOvaq7HV-LM_Emr_YF-HYachEF86tMQdt65oibDH5rSs5hUU7_HcIJTSpmQ",
+    "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Chrome OS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
+-------------------------------
+Thu, 14 Dec 2023 15:04:58
+uag8735@edu.kunskapsskolan.se
+fetch("https://app-kedbackend-prod-swe-02.azurewebsites.net/api/messages?from=1688335200000&to=1719525600000&role=USER&tags=email%3Auag8735%40edu.kunskapsskolan.se%2Cwp%3A68406c32-df6a-447d-ff81-ec0e0ef0529f%2Cpt%3Aec3ac295-f29f-4063-8c79-345a0569db2c%2Cpt%3A520284e8-dd9e-4258-c1d9-6803f827e73b%2Cpt%3Aa854b8db-58a8-48a3-a64f-970cbf56d073%2Cpt%3A93ec36f9-571c-4f75-ea54-a4d6a46ad74d%2Cpt%3Abdd0135c-890e-48aa-9b21-fc0ba5c96831%2Ccg%3A7ma5%2Ccg%3A7bd6%2Ccg%3A363%2Ccg%3A7.1ph1%2Ccg%3A7ty1%2Ccg%3A7no9%2Ccg%3A7en1%2Ccg%3A7sl11%2Ccg%3A7hkk6%2Ccg%3A7idh1%2Ccg%3A7en5%2Ccg%3A7so1%2Ccg%3A3%2Ccg%3A7no1%2Ccg%3A7mu6%2Ccg%3A7sv1%2Ccg%3A7so6%2Cbg%3ASpanga%2F2023%2F7.1&subscrKey=5f713bb5-4dce-4b34-da3d-bdf2c814b901&cid=75b21ba8-ab77-4c26-cd51-984df59a2e2a", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "sv,en;q=0.9",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "Referer": "https://ks.kunskapsporten.se/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "OPTIONS"
+});
